@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 jekyll-gulp-sass-browser-sync
 =============================
 
@@ -50,3 +51,6 @@ gulp.task("deploy", ["jekyll-build"], function () {
         .pipe(deploy());
 });
 ```
+=======
+# Portfolio
+>>>>>>> d81529c7889b564137e8919149b5d9166381d958
